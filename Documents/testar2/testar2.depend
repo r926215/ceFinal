@@ -1,0 +1,137 @@
+# depslib dependency file v1.0
+1685890907 source:c:\users\testar\documents\testar2\testar2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1685890624 c:\users\testar\documents\testar2\testar2\myheader.h
+
+1685889996 source:c:\users\testar\documents\testar2\testar2\showpositions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1684943128 source:c:\users\testar\documents\testar2\testar2\hireperson.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1684943160 source:c:\users\testar\documents\testar2\testar2\showhiredpositionssortedbyid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1684943172 source:c:\users\testar\documents\testar2\testar2\showhiredpositionssortedbyname.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1685890531 source:c:\users\testar\documents\testar2\testar2\showmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1684943303 source:c:\users\testar\documents\testar2\testar2\fireperson.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1685890444 source:c:\users\testar\documents\testar2\testar2\exportlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1685890444 source:c:\users\tsar2\documents\testar2\exportlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1687006633 c:\users\tsar2\documents\testar2\myheader.h
+
+1684943303 source:c:\users\tsar2\documents\testar2\fireperson.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1687008822 source:c:\users\tsar2\documents\testar2\hireperson.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1684943160 source:c:\users\tsar2\documents\testar2\showhiredpositionssortedbyid.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1684943172 source:c:\users\tsar2\documents\testar2\showhiredpositionssortedbyname.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1687007886 source:c:\users\tsar2\documents\testar2\showmenu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+	"rlutil2.h"
+
+1687007973 source:c:\users\tsar2\documents\testar2\showpositions.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1687008286 source:c:\users\tsar2\documents\testar2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+	"rlutil.h"
+
+1687004677 source:c:\users\tsar2\documents\testar2\importlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"myheader.h"
+
+1571584339 c:\users\tsar2\documents\testar2\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1687005548 c:\users\tsar2\documents\testar2\rlutil2.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
